@@ -26,3 +26,26 @@
 3일차 윈폼 학습 결과 
 
 <img src = https://raw.githubusercontent.com/jangsihyeon/basic-CSharp-2023/main/images/win.png width= 700>
+
+## 4일차 
+- C# 기본 
+	- 클래스 상속 계속
+	- 인터페이스 
+	
+- Win App
+	- Winforms 컨트롤 마무리 
+	- Winforms 파일 복사 앱 
+	- 로그인앱 실습 
+	
+## 5일차 
+- C# 기본 
+	- 인터페이스 , 추상클래스
+	- 프로퍼티
+
+- Win App
+	- Winforms 디자인 오류시 해결 방법 
+	- winform 탐색기 만들기 
+	
+5일차 윈폼 학습 결과 
+	
+<img src = https://raw.githubusercontent.com/jangsihyeon/basic-CSharp-2023/main/images/winform2.png width= 700>
