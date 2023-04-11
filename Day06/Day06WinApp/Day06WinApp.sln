@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf08_dbhandling", "wf08_dbhandling\wf08_dbhandling.csproj", "{FCB09372-D026-48CF-B3F6-BF072D359A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf07_myexplorer", "wf07_myexplorer\wf07_myexplorer.csproj", "{2F937DBB-A369-46A2-81D8-EAF9C9BBECF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB09372-D026-48CF-B3F6-BF072D359A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB09372-D026-48CF-B3F6-BF072D359A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB09372-D026-48CF-B3F6-BF072D359A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB09372-D026-48CF-B3F6-BF072D359A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F937DBB-A369-46A2-81D8-EAF9C9BBECF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F937DBB-A369-46A2-81D8-EAF9C9BBECF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F937DBB-A369-46A2-81D8-EAF9C9BBECF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F937DBB-A369-46A2-81D8-EAF9C9BBECF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF89C3C-ACC2-4F0F-A471-B3847975AC30}
+	EndGlobalSection
+EndGlobal
