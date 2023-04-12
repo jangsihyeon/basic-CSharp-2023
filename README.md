@@ -71,3 +71,15 @@
 6일차 윈폼 학습 결과 
 	
 <img src = https://raw.githubusercontent.com/jangsihyeon/basic-CSharp-2023/main/images/winform6.png width= 700>
+
+## 7일차 
+- C# 기본
+	- 대리자, 이벤트 
+	- 람다식
+	- 파일 핸들링
+	- 더 공부해야할 내용 (LINQ, 리플랙션, dynamic)
+
+- Win App
+	- DB핸들링
+	- BookRentalShop DB 사용 Winforms 개발
+	- 실습 예제
