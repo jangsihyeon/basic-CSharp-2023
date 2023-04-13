@@ -82,4 +82,18 @@
 - Win App
 	- DB핸들링
 	- BookRentalShop DB 사용 Winforms 개발
+	- SDI vs MDI
+	
+## 8일차 
+- C# 기본
+	- 파일 핸들링
+	- 스레드 / 태스크 
+	- 가비지 컬렉션
+
+- Win App
+	- BookRentalShop DB 사용 Winforms 개발
 	- 실습 예제
+	
+7일차 윈폼 학습 결과 
+	
+<img src = https://raw.githubusercontent.com/jangsihyeon/basic-CSharp-2023/main/images/BookRTS.png width= 700>
