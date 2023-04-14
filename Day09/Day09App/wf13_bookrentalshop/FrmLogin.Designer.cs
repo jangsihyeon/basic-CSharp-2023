@@ -62,7 +62,6 @@
             this.TxtUserId.Name = "TxtUserId";
             this.TxtUserId.Size = new System.Drawing.Size(148, 23);
             this.TxtUserId.TabIndex = 1;
-            this.TxtUserId.Text = "manager";
             this.TxtUserId.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtUserId_KeyPress);
             // 
             // TxtPassword
@@ -72,7 +71,6 @@
             this.TxtPassword.PasswordChar = '●';
             this.TxtPassword.Size = new System.Drawing.Size(148, 23);
             this.TxtPassword.TabIndex = 2;
-            this.TxtPassword.Text = "12345";
             this.TxtPassword.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtPassword_KeyPress);
             // 
             // BtnLogin

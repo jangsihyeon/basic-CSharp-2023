@@ -84,9 +84,8 @@ namespace wf13_bookrentalshop
                 MySqlConnection conn = new MySqlConnection("");
                 conn.Open();
                 conn.Close();*/
-                // string connectionString = "Server = localhost; Port = 3306; DataBase = bookrentalshop; Uid = root; Pwd = 12345";
-
-                using (MySqlConnection conn = new MySqlConnection(Helpers.Commons.ConnString))
+                string connectionString = "Server=localhost;Port=3306;DataBase=bookrentalshop;Uid=root;Pwd=12345";
+                using (MySqlConnection conn = new MySqlConnection(connectionString))
                 {
                     conn.Open();
 

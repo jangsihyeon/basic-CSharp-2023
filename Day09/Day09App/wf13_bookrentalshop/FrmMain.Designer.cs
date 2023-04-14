@@ -73,7 +73,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(125, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.exitToolStripMenuItem.Text = "끝내기(&X)";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.ExitToolsStripMenuItem_Click);
             // 
@@ -92,33 +92,33 @@
             // MniGenre
             // 
             this.MniGenre.Name = "MniGenre";
-            this.MniGenre.Size = new System.Drawing.Size(142, 22);
+            this.MniGenre.Size = new System.Drawing.Size(180, 22);
             this.MniGenre.Text = "책 장르 관리";
             this.MniGenre.Click += new System.EventHandler(this.MniGenre_Click);
             // 
             // MniBookInfo
             // 
             this.MniBookInfo.Name = "MniBookInfo";
-            this.MniBookInfo.Size = new System.Drawing.Size(142, 22);
+            this.MniBookInfo.Size = new System.Drawing.Size(180, 22);
             this.MniBookInfo.Text = "책 정보 관리";
             this.MniBookInfo.Click += new System.EventHandler(this.MniBookInfo_Click);
             // 
             // MniMember
             // 
             this.MniMember.Name = "MniMember";
-            this.MniMember.Size = new System.Drawing.Size(142, 22);
+            this.MniMember.Size = new System.Drawing.Size(180, 22);
             this.MniMember.Text = "회원 관리";
             this.MniMember.Click += new System.EventHandler(this.MniMember_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(139, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(177, 6);
             // 
             // MniRental
             // 
             this.MniRental.Name = "MniRental";
-            this.MniRental.Size = new System.Drawing.Size(142, 22);
+            this.MniRental.Size = new System.Drawing.Size(180, 22);
             this.MniRental.Text = "대여 관리";
             this.MniRental.Click += new System.EventHandler(this.MniRental_Click);
             // 
@@ -133,7 +133,7 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.aboutToolStripMenuItem.Text = "정보(&A)... ...";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
@@ -167,7 +167,6 @@
             this.MainMenuStrip = this.menuStrip;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmMain";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "책 대여점";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMain_FormClosing);
             this.Load += new System.EventHandler(this.FrmMain_Load);
