@@ -109,6 +109,9 @@
 	
 ## 10일차 
 - Win App
-	- BookRentalShop
+	- BookRentalShop 만들기 마무리 
 
 - 코딩테스트
+
+10일차 책대여점 프로그램 
+<img src = https://raw.githubusercontent.com/jangsihyeon/basic-CSharp-2023/main/images/DB.png width= 700> 
